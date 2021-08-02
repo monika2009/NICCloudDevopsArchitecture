@@ -14,7 +14,7 @@ A simple explanation can be that a container is a form of operating system virtu
 
 Each container shares the same host OS or system kernel which makes containers more lightweight, portable and with less overhead. A container is a logical partition where users can run applications isolated from the rest of the system. Each application running in the container gets its own private network and a virtual filesystem that is not shared with other containers or the host.
 
-<img src="https://user-images.githubusercontent.com/67622286/122790347-dcd8e100-d2d5-11eb-961b-2657ef015188.jpg" width=500 height=450>
+<img src="https://user-images.githubusercontent.com/67622286/122790347-dcd8e100-d2d5-11eb-961b-2657ef015188.jpg" width=600 height=450>
 
 *A comparison between Containers and Virtual machines*
 
